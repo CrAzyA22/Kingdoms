@@ -1,0 +1,4 @@
+name: Kingdoms
+version: '1.0-SNAPSHOT'
+main: de.crazya22.kingdoms.Main
+api-version: '1.21'
